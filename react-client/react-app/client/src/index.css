@@ -3,3 +3,27 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+#nav-bar {
+	display: flex;
+	height: 30px;
+    padding: 8px;
+}
+.nav-background {
+	background-color: #232f3e;
+}
+.nav-left {
+	flex: 2;
+}
+.nav-right {
+	flex: 1;
+	display: flex;
+}
+.menu-btn {
+	color: white;
+	padding: 8px;
+	align-content: center; 
+}
+.logo {
+	color: #12dbed;
+	padding: 8px;
+}
