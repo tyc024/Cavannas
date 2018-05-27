@@ -1,0 +1,8 @@
+#! /bin/sh
+#
+# Created by configure
+
+"./configure" \
+"-prefix=/Users/jessicawu/Desktop/Cavannas/apache-server" \
+"-enable-so" \
+"$@"
