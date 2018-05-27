@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "concurrently": "^3.5.0"
-  }
+  },
   "proxy": "50.63.202.45",
   "homepage": "http://cavannas.com"
 }
