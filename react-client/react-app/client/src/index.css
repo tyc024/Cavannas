@@ -78,7 +78,7 @@ body {
           padding: 16px 16px;
         }
 .parallax{
-    background-image: url("../../../public/logoSmall.jpg");
+    background-image: url("./logoSmall.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
